@@ -1,0 +1,153 @@
+@import url(m_style.css);
+.cen {
+  margin: 0 auto;
+}
+.header {
+  width: 950px;
+  height: 87px;
+  background: none;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: url(../img/asdheader.gif);
+}
+.header h1 {
+  font-size: 28px;
+  padding-top: 10px;
+  color: #0180e1;
+  text-align: center;
+}
+.header ul {
+  width: 310px;
+  height: 17px;
+  background: none;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+.header ul li {
+  float: left;
+  background: url(../img/beigejin.gif) no-repeat 10px center;
+  padding-left: 20px;
+}
+.header ul li a {
+  text-align: center;
+}
+.header ul .one {
+  background: none;
+}
+.section {
+  width: 950px;
+  height: auto;
+  background: none;
+  margin: 0 auto;
+  border-top: 2px solid #dcecf9;
+}
+.section .left {
+  width: 320px;
+  height: 600px;
+  background: none;
+  float: left;
+  border-right: 1px solid #dcecf9;
+}
+.section .left h1 {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.section .left img {
+  margin-top: 24px;
+}
+.section .left table {
+  margin-top: 12px;
+}
+.section .left table tr {
+  width: 293px;
+  height: 27px;
+  background: none;
+}
+.section .left table tr td {
+  width: 73px;
+  height: 27px;
+  background: none;
+  text-align: center;
+}
+.section .left table tr .nb {
+  color: red;
+}
+.section .left table .one {
+  background: #eaf0fc;
+}
+.section .left ul {
+  margin-top: 15px;
+}
+.section .left ul li {
+  height: 29px;
+  color: #004276;
+}
+.section .left ul li a {
+  margin-left: 3px;
+  color: #004276;
+}
+.section .center {
+  width: 368px;
+  height: 600px;
+  background: none;
+  float: left;
+  border-right: 1px solid #dcecf9;
+}
+.section .center h1 {
+  margin-left: 20px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.section .center ul {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.section .center ul li {
+  height: 29px;
+  color: #004276;
+}
+.section .center ul li a {
+  margin-left: 3px;
+  color: #004276;
+}
+.section .right {
+  width: 250px;
+  height: 600px;
+  background: none;
+  float: left;
+}
+.section .right h1 {
+  margin-left: 20px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.section .right p {
+  width: 250px;
+  height: 27px;
+  background: none;
+  float: left;
+  text-align: center;
+}
+.section .right .one {
+  margin-top: 12px;
+}
+.section .right table tr {
+  width: 250px;
+  height: 27px;
+  background: none;
+}
+.section .right table tr td {
+  width: 73px;
+  height: 27px;
+  background: none;
+  text-align: center;
+}
+.section .right table tr .two {
+  color: red;
+}
+.section .right table tr .one {
+  color: green;
+}
+.section .right table .bian {
+  background: #eeeeee;
+}
